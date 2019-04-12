@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/quanganh/Downloads/Weather/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v19/values-v19.xml",
+            "map": [
+                {
+                    "source": "/Users/quanganh/Downloads/Weather/app/src/main/res/values-v19/styles.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "8",
+                        "startOffsets": "60",
+                        "endLines": "6",
+                        "endColumns": "16",
+                        "endOffsets": "298"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "16",
+                        "endOffsets": "293"
+                    }
+                }
+            ]
+        }
+    ]
+}

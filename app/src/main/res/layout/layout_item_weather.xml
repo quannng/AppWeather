@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="16dp"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView
+        android:id="@+id/next_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Mon"
+        android:textColor="@android:color/primary_text_dark"
+        android:textSize="16sp"/>
+    <ImageView
+        android:id="@+id/next_icon"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:src="@drawable/icon_0"/>
+    <TextView
+        android:id="@+id/next_cencius"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="27/15"
+        android:textSize="14sp"
+        android:textColor="@android:color/primary_text_dark" />
+
+</LinearLayout>
